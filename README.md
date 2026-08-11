@@ -25,7 +25,7 @@ project-root/
 ├── tweets/
 │   ├── twitter_training.csv
 │   └── twitter_validation.csv
-├── Twitter_Sentiment_4Class_with_GRU.ipynb
+├── Twitter_Sentiment.ipynb
 ├── README.md
 └── requirements.txt
 ```
@@ -76,7 +76,7 @@ joblib
 
 ## Running the Project
 
-Open `Twitter_Sentiment_4Class_with_GRU.ipynb` in Jupyter, VS Code, or Colab and run all cells top to bottom. Each section is documented with markdown explaining what it does and why.
+Open `Twitter_Sentiment.ipynb` in Jupyter, VS Code, or Colab and run all cells top to bottom. Each section is documented with markdown explaining what it does and why.
 
 ## Results
 
@@ -97,8 +97,8 @@ See the full project report for detailed methodology, per-class results, and dis
 ## Project Structure
 
 ```
-├── tweets/                                    # Dataset (not committed — see Setup)
-├── Twitter_Sentiment_4Class_with_GRU.ipynb     # Main notebook — full pipeline
+├── tweets/                                    
+├── Twitter_Sentiment.ipynb     
 ├── README.md
 └── requirements.txt
 ```
@@ -107,9 +107,9 @@ See the full project report for detailed methodology, per-class results, and dis
 
 | Name | Index Number | GitHub Repository |
 |---|---|---|
-| [Full Name 1] | [Index Number] | [https://github.com/username1/twitter-sentiment-classification] |
-| [Full Name 2] | [Index Number] | [https://github.com/username2/twitter-sentiment-classification] |
-| [Full Name 3] | [Index Number] | [https://github.com/username3/twitter-sentiment-classification] |
+| EMMANUEL BAIDOO | UEB3519423 | https://github.com/HUMBLE-DEV/Tweeter-X-Sentiment-Analysis |
+| KINGSLEY BOAMAH OWUSU  | UEB3522223 | https://github.com/KingsleyOwusuBoamah/Twetter_Sentiment_Analysis | 
+| ISAAC HWEDIE OSEI | UEB3508223  | https://github.com/oseihwedieisaac/Twitter_Sentiment_Analysis_X |
 
 ## License
 
