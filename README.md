@@ -82,10 +82,10 @@ Open `Twitter_Sentiment.ipynb` in Jupyter, VS Code, or Colab and run all cells t
 
 | Model | Type | Accuracy | Macro F1 |
 |---|---|---|---|
-| Multinomial Naive Bayes | Classical (TF-IDF) | _fill in after running_ | _fill in after running_ |
-| Logistic Regression | Classical (TF-IDF) | _fill in after running_ | _fill in after running_ |
-| Linear SVM (OvR) | Classical (TF-IDF) | _fill in after running_ | _fill in after running_ |
-| Bidirectional GRU + Embedding | Deep Learning | _fill in after running_ | _fill in after running_ |
+| Multinomial Naive Bayes | Classical (TF-IDF) | 66.16% | 0.6498 |
+| Logistic Regression | Classical (TF-IDF) |75.79% | 0.7531 |
+| Linear SVM (OvR) | Classical (TF-IDF) | 78.93% |0.7840 |
+| Bidirectional GRU + Embedding | Deep Learning |88.86% | 0.8895 |
 
 See the full project report for detailed methodology, per-class results, and discussion of the classical vs. deep learning trade-offs.
 
